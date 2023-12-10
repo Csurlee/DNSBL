@@ -3,33 +3,6 @@ temu.com
 tinder.com
 
 
-
-
-!
-! Title: Phishing Army
-! Description: The Blocklist to filter Phishing domains!
-! Homepage: https://github.com/drego85/PhishingArmyCore/
-! Last modified: 2023-12-10T06:06:01.975Z
-!
-! Compiled by @adguard/hostlist-compiler v1.0.23
-!
-!
-! Source name: Phishing Army
-! Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-!
-# 
-# Phishing Army | The Blocklist to filter Phishing 
-# 
-# Last Update: Sun, 10 Dec 2023 05:45:39 UTC
-# 
-# This is the extended version, also contains domains without subdomains.
-# 
-# Project website: https://phishing.army 
-# Support the project with a donation:: https://www.buymeacoffee.com/andreadraghetti 
-# 
-# This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
-# ======================================================================================================
-
 0-01x-merchandise.554217.xyz
 0-0llx.12313123.xyz
 0-0lx.1231312.xyz
